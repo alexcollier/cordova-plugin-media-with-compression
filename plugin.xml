@@ -27,7 +27,7 @@ version="2.1.2">
     <description>Cordova Media Plugin with MPEG 4 audio compression for iOS and Android</description>
     <license>Apache 2.0</license>
     <keywords>cordova, media, audio compression</keywords>
-    <repo>https://github.com/remoorejr/cordova-plugin-media-with-compression.git</repo>
+    <repo>https://github.com/alexcollier/cordova-plugin-media-with-compression.git</repo>
     <!-- <issue>https://issues.apache.org/jira/browse/CB/component/12320647</issue> -->
 	
 	<engines>
